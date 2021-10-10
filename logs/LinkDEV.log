@@ -1,0 +1,89 @@
+2021-10-10 03:35:14 INFO  TestBase:152 - Opening Browser ...
+2021-10-10 03:35:14 INFO  TestBase:153 - Open URL = StoreURL
+2021-10-10 03:35:24 INFO  ScenarioOne:64 - login started 
+2021-10-10 03:35:24 INFO  LoginPage:52 - click on login button ...
+2021-10-10 03:35:24 INFO  PageBase:40 - element with login2found successfully 
+2021-10-10 03:35:24 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:35:24 INFO  PageBase:40 - element with loginusernamefound successfully 
+2021-10-10 03:35:24 INFO  PageBase:40 - element with loginpasswordfound successfully 
+2021-10-10 03:35:24 INFO  PageBase:69 - element with testfound successfully 
+2021-10-10 03:35:24 INFO  PageBase:69 - element with testfound successfully 
+2021-10-10 03:35:24 INFO  PageBase:55 - element with //button[contains(text(),'Log in')]found successfully 
+2021-10-10 03:35:24 INFO  PageBase:94 - element with clicked successfully 
+2021-10-10 03:35:26 INFO  PageBase:40 - element with logout2found successfully 
+2021-10-10 03:35:27 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:35:28 INFO  PageBase:55 - element with //a[contains(text(),'Add to cart')]found successfully 
+2021-10-10 03:35:32 INFO  ScenarioOne:77 - Scenario one is done successfully 
+2021-10-10 03:35:32 INFO  TestBase:186 - Logout ...
+2021-10-10 03:35:32 INFO  TestBase:172 - Closing Browser ...
+2021-10-10 03:36:57 INFO  TestBase:152 - Opening Browser ...
+2021-10-10 03:36:57 INFO  TestBase:153 - Open URL = StoreURL
+2021-10-10 03:37:04 INFO  ScenarioTwo:88 - Scenario 2 Started
+2021-10-10 03:37:04 INFO  LoginPage:52 - click on login button ...
+2021-10-10 03:37:04 INFO  PageBase:40 - element with login2found successfully 
+2021-10-10 03:37:05 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:37:05 INFO  PageBase:40 - element with loginusernamefound successfully 
+2021-10-10 03:37:05 INFO  PageBase:40 - element with loginpasswordfound successfully 
+2021-10-10 03:37:05 INFO  PageBase:69 - element with testfound successfully 
+2021-10-10 03:37:05 INFO  PageBase:69 - element with testfound successfully 
+2021-10-10 03:37:05 INFO  PageBase:55 - element with //button[contains(text(),'Log in')]found successfully 
+2021-10-10 03:37:05 INFO  PageBase:94 - element with clicked successfully 
+2021-10-10 03:37:08 INFO  PageBase:40 - element with logout2found successfully 
+2021-10-10 03:37:10 INFO  PageBase:55 - element with //a[contains(text(),'Cart')]found successfully 
+2021-10-10 03:37:20 INFO  PageBase:55 - element with //a[contains(text(),'Home')]found successfully 
+2021-10-10 03:37:23 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:37:24 INFO  PageBase:55 - element with //a[contains(text(),'Add to cart')]found successfully 
+2021-10-10 03:37:27 INFO  ScenarioTwo:116 - Adding second product has been done successfully
+2021-10-10 03:37:29 INFO  PageBase:55 - element with //a[contains(text(),'Home')]found successfully 
+2021-10-10 03:37:32 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:37:32 INFO  PageBase:55 - element with //a[contains(text(),'Add to cart')]found successfully 
+2021-10-10 03:37:36 INFO  ScenarioTwo:133 - 2 products are added successfully
+2021-10-10 03:37:38 INFO  PageBase:55 - element with //a[contains(text(),'Cart')]found successfully 
+2021-10-10 03:37:49 INFO  PageBase:40 - element with totalpfound successfully 
+2021-10-10 03:37:50 INFO  ScenarioTwo:169 - 2 products are displaying on the cart successfully with the same name and price and total price 
+2021-10-10 03:37:50 INFO  ScenarioTwo:170 - Note that total price is displayed successfully 
+2021-10-10 03:37:50 INFO  TestBase:186 - Logout ...
+2021-10-10 03:37:50 INFO  TestBase:172 - Closing Browser ...
+2021-10-10 03:38:57 INFO  TestBase:152 - Opening Browser ...
+2021-10-10 03:38:57 INFO  TestBase:153 - Open URL = StoreURL
+2021-10-10 03:39:05 INFO  ScenarioThree:99 - Scenario 3 Started
+2021-10-10 03:39:05 INFO  LoginPage:52 - click on login button ...
+2021-10-10 03:39:05 INFO  PageBase:40 - element with login2found successfully 
+2021-10-10 03:39:05 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:39:05 INFO  PageBase:40 - element with loginusernamefound successfully 
+2021-10-10 03:39:05 INFO  PageBase:40 - element with loginpasswordfound successfully 
+2021-10-10 03:39:05 INFO  PageBase:69 - element with testfound successfully 
+2021-10-10 03:39:05 INFO  PageBase:69 - element with testfound successfully 
+2021-10-10 03:39:05 INFO  PageBase:55 - element with //button[contains(text(),'Log in')]found successfully 
+2021-10-10 03:39:05 INFO  PageBase:94 - element with clicked successfully 
+2021-10-10 03:39:07 INFO  PageBase:55 - element with //a[contains(text(),'Cart')]found successfully 
+2021-10-10 03:39:21 INFO  PageBase:55 - element with //a[contains(text(),'Home')]found successfully 
+2021-10-10 03:39:24 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:39:25 INFO  PageBase:55 - element with //a[contains(text(),'Add to cart')]found successfully 
+2021-10-10 03:39:29 INFO  ScenarioThree:125 - Adding second product has been done successfully
+2021-10-10 03:39:31 INFO  PageBase:55 - element with //a[contains(text(),'Home')]found successfully 
+2021-10-10 03:39:33 INFO  PageBase:94 - element with nullclicked successfully 
+2021-10-10 03:39:34 INFO  PageBase:55 - element with //a[contains(text(),'Add to cart')]found successfully 
+2021-10-10 03:39:38 INFO  ScenarioThree:140 - 2 products are added successfully
+2021-10-10 03:39:40 INFO  PageBase:55 - element with //a[contains(text(),'Cart')]found successfully 
+2021-10-10 03:39:48 INFO  PageBase:40 - element with totalpfound successfully 
+2021-10-10 03:39:48 INFO  ScenarioThree:178 - 2 products are displaying on the cart successfully with the same name and price and total price 
+2021-10-10 03:39:48 INFO  ScenarioThree:179 - Note that total price is displayed successfully 
+2021-10-10 03:39:48 INFO  PageBase:55 - element with //button[@type='button' and contains(text(),'Place Order')]found successfully 
+2021-10-10 03:39:49 INFO  PageBase:40 - element with namefound successfully 
+2021-10-10 03:39:49 INFO  PageBase:40 - element with countryfound successfully 
+2021-10-10 03:39:49 INFO  PageBase:40 - element with cityfound successfully 
+2021-10-10 03:39:49 INFO  PageBase:40 - element with cardfound successfully 
+2021-10-10 03:39:49 INFO  PageBase:40 - element with monthfound successfully 
+2021-10-10 03:39:49 INFO  PageBase:40 - element with yearfound successfully 
+2021-10-10 03:39:50 INFO  ScenarioThree:185 - Order Details are entered successfully 
+2021-10-10 03:39:50 INFO  PageBase:55 - element with //button[@type='button' and contains(text(),'Purchase')]found successfully 
+2021-10-10 03:39:50 INFO  PageBase:55 - element with //div[@class='sweet-alert  showSweetAlert visible']//h2found successfully 
+2021-10-10 03:39:50 INFO  PageBase:55 - element with //p[@class='lead text-muted ']found successfully 
+2021-10-10 03:39:51 INFO  PageBase:55 - element with //p[@class='lead text-muted ']found successfully 
+2021-10-10 03:39:51 INFO  PageBase:55 - element with //p[@class='lead text-muted ']found successfully 
+2021-10-10 03:39:51 INFO  ScenarioThree:206 - Same info which adding when purchasing order is displaying successfully  
+2021-10-10 03:39:51 INFO  PageBase:55 - element with //button[contains(text(),'OK')]found successfully 
+2021-10-10 03:39:54 INFO  PageBase:40 - element with logout2found successfully 
+2021-10-10 03:39:54 INFO  TestBase:186 - Logout ...
+2021-10-10 03:39:54 INFO  TestBase:172 - Closing Browser ...

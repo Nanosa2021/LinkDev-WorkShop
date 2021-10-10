@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-10T01:38:56Z" name="Default suite" finished-at="2021-10-10T01:39:54Z" duration-ms="58063">
+    <groups>
+    </groups>
+    <test started-at="2021-10-10T01:38:56Z" name="Default test" finished-at="2021-10-10T01:39:54Z" duration-ms="58063">
+      <class name="linkDev.Test.ScenarioThree">
+        <test-method is-config="true" signature="beforeTest(org.testng.xml.XmlTest)[pri:0, instance:linkDev.Test.ScenarioThree@258d79be]" started-at="2021-10-10T03:38:56Z" name="beforeTest" finished-at="2021-10-10T03:38:56Z" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@bba93666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:linkDev.Test.ScenarioThree@258d79be]" started-at="2021-10-10T03:38:56Z" name="beforeMethod" finished-at="2021-10-10T03:39:05Z" duration-ms="8309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void linkDev.Test.ScenarioThree.ScenarioThree() throws java.text.ParseException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ScenarioThree()[pri:0, instance:linkDev.Test.ScenarioThree@258d79be]" started-at="2021-10-10T03:39:05Z" name="ScenarioThree" finished-at="2021-10-10T03:39:54Z" duration-ms="49207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScenarioThree -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:linkDev.Test.ScenarioThree@258d79be]" started-at="2021-10-10T03:39:54Z" name="afterMethod" finished-at="2021-10-10T03:39:54Z" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- linkDev.Test.ScenarioThree -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
